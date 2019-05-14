@@ -66,7 +66,7 @@ ldconfig
 Generación del programa fprinthandler
 
 1. Entrar a la carpeta
-/root/libfprint-ci24/fprinthandler/ç
+/root/libfprint-ci24/fprinthandler/
 
 2. Ejecutar el comando 
 make
