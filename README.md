@@ -71,10 +71,10 @@ Generación del programa fprinthandler
 2. Ejecutar el comando  
 make  
 
+--  
+Nota  
 
-
-
-
-
+Si el comando pip3 comienza a generar problemas, se deben ejecutar los siguientes comandos  
+easy_install3 -U pip  
 
 
